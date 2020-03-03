@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm going to help you understand how to use a multimeter, it is important for troubleshooting.
